@@ -16,9 +16,6 @@ source:
 build:
   number: {{ build_number }}
   skip: True  # [win or py2k]
-  script:
-    - "export CFLAGS=\"-std=c99 -L$CONDA_PREFIX/include\""
-    - "{{ PYTHON }} -m pip install . --no-deps --ignore-installed --no-cache-dir -vvv"
 
 requirements:
   build:
