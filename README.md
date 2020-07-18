@@ -5,7 +5,7 @@ Home: https://github.com/dukebw/lintel
 
 Package license: Apache2
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: A Python module to decode video frames directly, using the FFmpeg C API.
 
