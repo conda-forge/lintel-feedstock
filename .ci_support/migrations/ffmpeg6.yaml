@@ -3,5 +3,6 @@ __migrator:
   kind: version
   migration_number: 1
 ffmpeg:
-- '4.4'
-migrator_ts: 1645963201.9878001
+- '5'
+- '6'
+migrator_ts: 1684252387.6420875
